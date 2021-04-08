@@ -1,0 +1,18 @@
+.head{
+    background-color: rgba(31, 41, 55);
+    color: whitesmoke;
+    padding: 1rem 0;
+    font-size: 1.8rem;
+    font-weight: 400;
+}
+
+.button{
+    transition: all 1000 ease-out; 
+}
+
+.country-card{
+    transition-property: all;
+    transition-duration: 5000ms;
+    transition-timing-function: ease-in-out;
+    margin: 0 auto;
+}
